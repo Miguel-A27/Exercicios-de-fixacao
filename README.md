@@ -1,5 +1,6 @@
 # Exercicios-de-fixacao
-
+//Grupo 5 Miguel
+<!-- 
 Variaveis constantes
 com concatenação "+"
 interpolação de tipos 
@@ -22,4 +23,4 @@ Analogia: Você so poderá entra na festa se for maior de 18 anos e tiver identi
 
 4- Dirigir um carro 
 Analogia: Você so poderá dirigir se for habilitado e tiver com o documento em mãos
-
+ -->
